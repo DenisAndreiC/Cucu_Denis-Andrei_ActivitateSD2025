@@ -33,6 +33,18 @@
     <ClCompile Include="seminar9.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lucru_heap_test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\masini.txt">
