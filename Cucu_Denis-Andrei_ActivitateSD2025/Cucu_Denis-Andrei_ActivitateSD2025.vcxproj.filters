@@ -45,6 +45,9 @@
     <ClCompile Include="lucru_heap_test.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lucru_arbori_test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\masini.txt">
